@@ -1,0 +1,328 @@
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | ERROR    | trade_logger | ERROR | fetch_futures_symbols | Exception: network error
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | Fetched 2 USDT futures symbols
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | Leverage set | BTCUSDT → 10x
+2026-03-20 08:58:04 | INFO     | trade_logger | ALERT | [LEVERAGE] Leverage set: BTCUSDT = 10x
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | Leverage set | ETHUSDT → 5x
+2026-03-20 08:58:04 | INFO     | trade_logger | ALERT | [LEVERAGE] Leverage set: ETHUSDT = 5x
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | Leverage set | BTCUSDT → 10x
+2026-03-20 08:58:04 | INFO     | trade_logger | ALERT | [LEVERAGE] Leverage set: BTCUSDT = 10x
+2026-03-20 08:58:04 | INFO     | trade_logger | OPEN  | LONG BTCUSDT | entry=50000.0000 | qty=0.0020 | lev=10x | sl=49000.0 | tp=52000.0
+2026-03-20 08:58:04 | INFO     | trade_logger | ALERT | [POSITION] 🟢 Position OPENED: BTCUSDT
+Price: 50000.0
+SL: 49000.0
+TP: 52000.0
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | Leverage set | ETHUSDT → 5x
+2026-03-20 08:58:04 | INFO     | trade_logger | ALERT | [LEVERAGE] Leverage set: ETHUSDT = 5x
+2026-03-20 08:58:04 | INFO     | trade_logger | OPEN  | SHORT ETHUSDT | entry=50000.0000 | qty=0.0010 | lev=5x | sl=51000.0 | tp=48000.0
+2026-03-20 08:58:04 | INFO     | trade_logger | ALERT | [POSITION] 🟢 Position OPENED: ETHUSDT
+Price: 50000.0
+SL: 51000.0
+TP: 48000.0
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | INFO     | trade_logger | CLOSE | LONG BTCUSDT | entry=50000.0000 | exit=52000.0000 | qty=0.0020 | pnl=4.0000 | reason=manual
+2026-03-20 08:58:04 | INFO     | trade_logger | ALERT | [POSITION] 🔴 Position CLOSED: BTCUSDT
+Price: 52000.0
+P&L: 4.0
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | INFO     | trade_logger | CLOSE | LONG BTCUSDT | entry=50000.0000 | exit=52000.0000 | qty=0.0020 | pnl=4.0000 | reason=manual
+2026-03-20 08:58:04 | INFO     | trade_logger | ALERT | [POSITION] 🔴 Position CLOSED: BTCUSDT
+Price: 52000.0
+P&L: 4.0
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | INFO     | trade_logger | UPDATE| BTCUSDT | sl=48000.0 | tp=None
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | INFO     | trade_logger | UPDATE| BTCUSDT | sl=None | tp=55000.0
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Max drawdown breached! -11.00% (limit: -10.00%)
+2026-03-20 08:58:04 | INFO     | trade_logger | ALERT | [DRAWDOWN] ⚠️ Max drawdown breached: -11.00% – closing all positions
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | Grid trade set up | BTCUSDT | 4 levels | entry=50000.0000
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | Grid trade set up | BTCUSDT | 3 levels | entry=50000.0000
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | INFO     | trade_logger | ALERT | [INFO] test message
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:58:04 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:58:04 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:58:04 | INFO     | trade_logger | ALERT | [TEST] Hello
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | ERROR    | trade_logger | ERROR | fetch_futures_symbols | Exception: network error
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | Fetched 2 USDT futures symbols
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | Leverage set | BTCUSDT → 10x
+2026-03-20 08:59:33 | INFO     | trade_logger | ALERT | [LEVERAGE] Leverage set: BTCUSDT = 10x
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | Leverage set | ETHUSDT → 5x
+2026-03-20 08:59:33 | INFO     | trade_logger | ALERT | [LEVERAGE] Leverage set: ETHUSDT = 5x
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | Leverage set | BTCUSDT → 10x
+2026-03-20 08:59:33 | INFO     | trade_logger | ALERT | [LEVERAGE] Leverage set: BTCUSDT = 10x
+2026-03-20 08:59:33 | INFO     | trade_logger | OPEN  | LONG BTCUSDT | entry=50000.0000 | qty=0.0020 | lev=10x | sl=49000.0 | tp=52000.0
+2026-03-20 08:59:33 | INFO     | trade_logger | ALERT | [POSITION] 🟢 Position OPENED: BTCUSDT
+Price: 50000.0
+SL: 49000.0
+TP: 52000.0
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | Leverage set | ETHUSDT → 5x
+2026-03-20 08:59:33 | INFO     | trade_logger | ALERT | [LEVERAGE] Leverage set: ETHUSDT = 5x
+2026-03-20 08:59:33 | INFO     | trade_logger | OPEN  | SHORT ETHUSDT | entry=50000.0000 | qty=0.0010 | lev=5x | sl=51000.0 | tp=48000.0
+2026-03-20 08:59:33 | INFO     | trade_logger | ALERT | [POSITION] 🟢 Position OPENED: ETHUSDT
+Price: 50000.0
+SL: 51000.0
+TP: 48000.0
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | INFO     | trade_logger | CLOSE | LONG BTCUSDT | entry=50000.0000 | exit=52000.0000 | qty=0.0020 | pnl=4.0000 | reason=manual
+2026-03-20 08:59:33 | INFO     | trade_logger | ALERT | [POSITION] 🔴 Position CLOSED: BTCUSDT
+Price: 52000.0
+P&L: 4.0
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | INFO     | trade_logger | CLOSE | LONG BTCUSDT | entry=50000.0000 | exit=52000.0000 | qty=0.0020 | pnl=4.0000 | reason=manual
+2026-03-20 08:59:33 | INFO     | trade_logger | ALERT | [POSITION] 🔴 Position CLOSED: BTCUSDT
+Price: 52000.0
+P&L: 4.0
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | INFO     | trade_logger | UPDATE| BTCUSDT | sl=48000.0 | tp=None
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | INFO     | trade_logger | UPDATE| BTCUSDT | sl=None | tp=55000.0
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Max drawdown breached! -11.00% (limit: -10.00%)
+2026-03-20 08:59:33 | INFO     | trade_logger | ALERT | [DRAWDOWN] ⚠️ Max drawdown breached: -11.00% – closing all positions
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | Grid trade set up | BTCUSDT | 4 levels | entry=50000.0000
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | Grid trade set up | BTCUSDT | 3 levels | entry=50000.0000
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_BOT_TOKEN is not set – alerts disabled
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: TELEGRAM_CHAT_ID is not set – alerts disabled
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | INFO     | trade_logger | ALERT | [INFO] test message
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_KEY is not set
+2026-03-20 08:59:33 | WARNING  | trading_bot_futures | Config warning: BINANCE_API_SECRET is not set
+2026-03-20 08:59:33 | INFO     | trading_bot_futures | TradingBot initialised | testnet=True | url=https://testnet.binancefuture.com
+2026-03-20 08:59:33 | INFO     | trade_logger | ALERT | [TEST] Hello
